@@ -1,0 +1,764 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"id": 1, "name": "Bredstræde", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698870182037354,
+          55.10501368226336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 2, "name": "Byledsgade bombebilleder", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.702303409576414,
+          55.10548935035101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 3, "name": "Damgade bombebilleder", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698145985603333,
+          55.100130852173685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 4, "name": "Havnen", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698065519332886,
+          55.096487522483265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 5, "name": "Kapelvej bombebilleder", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.697571992874146,
+          55.09858086622772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 6, "name": "Møllegade bombebilleder", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.702067375183107,
+          55.10484796430941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 7, "name": "Nygade", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.697631001472475,
+          55.10140455800917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 8, "name": "Ny Østergade", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.702593088150024,
+          55.099176313483134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 9, "name": "Nørregade", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69970703125,
+          55.10322143680809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 10, "name": "Skolestræde", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.696204066276549,
+          55.10004184470644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 11, "name": "Sletten", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69918131828308,
+          55.10486944630515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 12, "name": "Snellemark", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.694991707801817,
+          55.1014291109759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 13, "name": "Storegade", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.695769548416138,
+          55.10196927242805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 14, "name": "Storetorv", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.699041843414307,
+          55.101837301838096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 15, "name": "Store Torvegade", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.700726270675657,
+          55.10565813444051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 16, "name": "Søndre Allé", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70447063446045,
+          55.09197203393529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 17, "name": "Vestergade", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69319462776184,
+          55.101370797655285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 18, "name": "Vimmelskaftet", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.700785279273987,
+          55.097979271332946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 19, "name": "Østergade", "year": "1945", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.703977108001709,
+          55.10004184470644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 20, "name": "Absalonsgade", "year": "1950", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.705264568328856,
+          55.10741344671194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 21, "name": "Antoniestræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698103070259092,
+          55.10161018863978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 22, "name": "Asavej", "year": "1980", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.724297523498535,
+          55.0955973577609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 23, "name": "Bagergade", "year": "1910", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70045804977417,
+          55.09918245206845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 24, "name": "Bagergade3", "year": "1910", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69982236623764,
+          55.09902438319642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 25, "name": "Bondegade", "year": "1907", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.701716005802155,
+          55.09971190150383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 26, "name": "Borgergade", "year": "1910-1922", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.697690010070799,
+          55.10410529392702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 27, "name": "Borgmester Nielsens Vej", "year": "1942-1958", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.710006713867188,
+          55.10448583749998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 28, "name": "Byledsgade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70566153526306,
+          55.1066339993815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 29, "name": "Bækken", "year": "1910", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70119297504425,
+          55.09533644365487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 30, "name": "Damgade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69918131828308,
+          55.10017075200846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 31, "name": "Dampmøllegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.705060720443726,
+          55.10129406947218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 32, "name": "Ellekongstræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.700570702552794,
+          55.10191095989553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 33, "name": "Fabriksvej", "year": "1944", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.712586998939512,
+          55.09914255124712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 34, "name": "Fiskerbakken", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.697888493537903,
+          55.10507505910893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 35, "name": "Fiskerstræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.693905413150787,
+          55.10287617481179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 36, "name": "Fru Stenbergsvej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.705500602722166,
+          55.10104239999778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 37, "name": "Gartnervangen", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.706981182098387,
+          55.113580977984064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 38, "name": "Godthåbsvej", "year": "1932", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.701994955539702,
+          55.103792263432965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 39, "name": "Grønnegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69445526599884,
+          55.10178512729861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 40, "name": "Haslevej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7052001953125,
+          55.114286654691185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 41, "name": "Havnebakken", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.695506691932678,
+          55.09950165720521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 42, "name": "Havnegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.692760109901426,
+          55.10131555337831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 43, "name": "Hedningestræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.699819684028624,
+          55.098234029459945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 44, "name": "Jernbanegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.691494107246399,
+          55.10097948238156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 45, "name": "Johnsensvej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70467448234558,
+          55.098557846181514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 46, "name": "Kalkbrænderivej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.703322649002075,
+          55.10787374311308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 47, "name": "Kapelvej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698698520660402,
+          55.09702775071852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 48, "name": "Kapelvej 3", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.697802662849426,
+          55.09848264727151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 49, "name": "Kastanievej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.702448248863218,
+          55.09632023441865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 50, "name": "Kattesundet", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.703242182731628,
+          55.10016000974917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 51, "name": "Kirkestræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.698497354984283,
+          55.09822328668017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 52, "name": "Klokkegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.702013731002808,
+          55.10042242697135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 53, "name": "Knappestræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.69932347536087,
+          55.104106828384204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 54, "name": "Knudsvej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.702547490596771,
+          55.10374469485897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 55, "name": "Krystalgade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.696971178054811,
+          55.102478736198755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 56, "name": "Landemærket", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.705012440681456,
+          55.10266594715749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 57, "name": "Larsegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6996533870697,
+          55.097739858601166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 58, "name": "Lille Madsegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.703580141067505,
+          55.10476817393833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 59, "name": "Lille Tværstræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.701573848724367,
+          55.10481420686418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 60, "name": "Lindevej bombebilleder", "year": "-", "bomb": "true"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70433920621872,
+          55.096134528499505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 61, "name": "Lygtestræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.696429371833801,
+          55.09969041673574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 62, "name": "Lærkevej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.704996347427366,
+          55.11715218766567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 63, "name": "Løkkegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.701981544494627,
+          55.09571400116335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 64, "name": "Magstræde", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70025956630707,
+          55.1041513276164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 65, "name": "Margrethevej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.704438447952269,
+          55.1052806708548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 66, "name": "Marie Kofoedsvej", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.703110754489899,
+          55.10499833803721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 67, "name": "Myregade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70132976770401,
+          55.097000125588146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 68, "name": "Møllegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.70268964767456,
+          55.106041731992676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"id": 69, "name": "Nellikegade", "year": "-", "bomb": "false"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.699057936668396,
+          55.10040708098241
+        ]
+      }
+    }
+  ]
+}
