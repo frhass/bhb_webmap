@@ -5,7 +5,7 @@ $(function () {
   });
   map.setView([55.10, 14.7], 15), map.zoomControl.setPosition('topright') ;  //([55.14, 14.9], 11)
 
-  // L.control.layers(imageUrl).addTo(map);
+  L.control.layers(imageUrl).addTo(map);
 
   var tileLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}',{
       attribution: 'Webmap made by Frederik Hass, Basemap Esri &copy;',
