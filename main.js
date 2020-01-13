@@ -101,12 +101,12 @@ $(function () {
 
 ////////////// CUSTOM CONTROLLER WITH IMAGE OVERLAY //////////////
 
-
+/*
   var imageUrl = 'https://www.roennebyarkiv.com/uploads/1/1/2/5/11258347/1039673_orig.jpg',
       imageBounds = [[55.109370, 14.6885], [55.0870, 14.7181000]]; // [Top Left], [Bottom Right]
 
   var map1945 = L.imageOverlay(imageUrl, imageBounds, {opacity:0.7, interactive: false});
-
+*/
 
 
   var topleft    = L.latLng(55.1079813, 14.6873083),
